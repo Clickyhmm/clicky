@@ -224,3 +224,17 @@ body::-webkit-scrollbar-thumb {
   justify-content: center;
   align-items: center;
 }
+
+.navi-butt {
+  height: 50px;
+  width: 50px;
+  padding: 0;
+  border-radius: 50%;
+  background-color: var(--bg-butt);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  bottom: 20px;
+  right: 20px;
+  position: fixed;
+}
